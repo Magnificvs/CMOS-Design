@@ -1,0 +1,16 @@
+//Revision 13
+//NOTE
+//VXL Configuration
+//END_NOTE
+
+config \1bit_adder ;
+design Demo.\1bit_adder :schematic;
+liblist Demo;
+
+viewlist physConfig, schematic, symbol;
+
+constraintviewlist constraint;
+stoplist layout, abstract;
+
+
+endconfig

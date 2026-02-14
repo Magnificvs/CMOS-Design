@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stimuliremovedset>
+    <namedstimuli>
+        <stimuliname>ina1</stimuliname>
+    </namedstimuli>
+    <namedstimuli>
+        <stimuliname>cin1</stimuliname>
+    </namedstimuli>
+    <namedstimuli>
+        <stimuliname>b1</stimuliname>
+    </namedstimuli>
+    <namedstimuli>
+        <stimuliname>a1</stimuliname>
+    </namedstimuli>
+</stimuliremovedset>
