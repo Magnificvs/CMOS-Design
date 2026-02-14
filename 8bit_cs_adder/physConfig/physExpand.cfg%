@@ -1,0 +1,16 @@
+//Revision 1
+//NOTE
+//VXL Configuration
+//END_NOTE
+
+config \8bit_cs_adder ;
+design Demo.\8bit_cs_adder :schematic;
+liblist Demo;
+
+viewlist physConfig, schematic, symbol;
+
+constraintviewlist constraint;
+stoplist layout, abstract;
+
+
+endconfig
